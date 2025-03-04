@@ -1,19 +1,19 @@
-# Détection de SMS Spam
+# SMS Spam Detection
 
 ## Description:
-Ce projet vise à analyser des SMS et à détecter ceux qui sont du spam en fonction de différentes caractéristiques. Nous avons utilisé des bibliothèques de Python pour explorer et visualiser les données afin de mieux comprendre les patterns associés aux messages spam.
+This project aims to analyze SMS messages and detect those that are spam based on various features. We used Python libraries to explore and visualize the data to better understand the patterns associated with spam messages.
 
-Technologies Utilisées:
-- Langage: Python
-- Bibliothèques:
-  - matplotlib : pour la visualisation des données sous forme de graphiques
-  - pandas : pour le traitement des données
-  - seaborn : pour des visualisations avancées
-  - numpy : pour les calculs numériques
+Technologies Used:
+- Language: Python
+- Libraries:
+  - matplotlib: for data visualization through graphs
+  - pandas: for data processing
+  - seaborn: for advanced visualizations
+  - numpy: for numerical computations
 
-Fonctionnalités:
-- Exploration des données : Chargement et analyse des données des SMS à l'aide de pandas
-- Visualisation : Création de graphiques pour mieux comprendre la répartition des données et les caractéristiques des SMS spam
-- Analyse des caractéristiques : Identification et visualisation des motifs communs dans les SMS spam via des graphiques
+Features:
+- Data Exploration: Loading and analyzing SMS data using pandas
+- Visualization: Creating graphs to better understand the distribution of data and the characteristics of spam SMS
+- Feature Analysis: Identifying and visualizing common patterns in spam SMS through graphs
 
 SAIDI Idir
